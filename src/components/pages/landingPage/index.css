@@ -1,0 +1,171 @@
+@import url("https://fonts.cdnfonts.com/css/clash-display");
+
+@import url("https://fonts.cdnfonts.com/css/general-sans");
+
+.top-header {
+  margin-bottom: 140px;
+}
+.btn-started {
+  background: #000000;
+  border-radius: 45px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.find-foods {
+  font-family: "General Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 22px;
+
+  color: #2b2a2c;
+}
+.taste {
+  font-weight: 700;
+  font-size: 48px;
+  font-family: "Clash Display";
+  line-height: 130%;
+  margin-bottom: 23px;
+}
+.food-taste {
+  color: #ca2ce4;
+}
+.perfect-menu {
+  font-family: "General Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  margin-bottom: 23px;
+}
+.btn-started-taste {
+  background: linear-gradient(
+    94.91deg,
+    #ca2ce4 1.61%,
+    #efd16b 98.65%,
+    #71d03c 141.28%
+  );
+  border-radius: 45px;
+  width: 245px;
+  height: 54px;
+  margin-bottom: 26px;
+  font-family: "General Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.065em;
+}
+
+.img-arrow {
+  position: absolute;
+  left: 210.1px;
+  top: 280px;
+}
+.powered {
+  font-family: "Clash Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+}
+.algorithm {
+  font-family: "General Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #4f4f4f;
+}
+
+.food-group {
+  position: absolute;
+  z-index: 10;
+  top: -115px;
+}
+.food-group2 {
+  position: absolute;
+  left: 200px;
+  top: -40px;
+  z-index: 5;
+}
+.food-group3 {
+  position: absolute;
+
+  left: 330px;
+  top: 40px;
+}
+.new-cuisines {
+  font-family: "Clash Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 150%;
+  margin-top: 185px;
+  color: #2b2a2c;
+}
+.eclipes {
+  position: absolute;
+
+  left: 0px;
+  top: 850px;
+}
+.experiencing {
+  margin-bottom: 162px;
+}
+.card-name {
+  font-family: "Clash Display";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 27px;
+  line-height: 130%;
+}
+.card-menu {
+  width: 350px;
+  height: 380px;
+  background: #9f55ac;
+  box-shadow: 0px 30px 44px rgba(200, 200, 200, 0.25);
+  border-radius: 45px;
+}
+.card-menu-info {
+  background: #ffc94c;
+}
+.card-menu-planning {
+  background: #4f9329;
+}
+.inner-circle {
+  width: 87px;
+  height: 87px;
+  border-radius: 50px;
+
+  background: #60206b;
+}
+.card-description {
+  font-family: "General Sans";
+  font-style: normal;
+
+  font-size: 14.2px;
+  line-height: 150%;
+  margin-top: 20px;
+}
+.our-goal {
+  margin-top: 216px;
+  margin-bottom: 189px;
+}
+.haeding {
+  font-family: "Clash Display";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 59px;
+
+  color: #2b2a2c;
+}
+.our-goal-paragraph {
+  font-family: "General Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 130%;
+  /* or 21px */
+
+  /* Black */
+
+  color: #2b2a2c;
+}
